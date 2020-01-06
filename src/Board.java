@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
+//It paints the items over and over, and also set the boundary for the items and board
 public class Board extends JPanel implements ActionListener {
 
     final int WIDTH = 800;
